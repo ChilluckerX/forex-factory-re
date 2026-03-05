@@ -1,6 +1,6 @@
-# ForexFactory Calendar Scraper
+# ForexFactory Calendar SDK
 
-A pure Python scraper/API client for retrieving up-to-date and historical calendar data from ForexFactory. This tool is built specifically for **educational purposes**, demonstrating how to structure an Object-Oriented wrapper around web APIs, manipulate state (cookies), and sanitize incoming JSON responses.
+A pure API client for retrieving up-to-date and historical calendar data from ForexFactory. This tool is built specifically for **educational purposes**, demonstrating how to structure an Object-Oriented wrapper around web APIs, manipulate state (cookies), and sanitize incoming JSON responses.
 
 ## Disclaimer
 This project is for educational use only. Scraping data may be against the terms of service of many websites. Please act responsibly and consult the target site's Terms of Service before putting a bot in production.
