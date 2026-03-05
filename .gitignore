@@ -1,0 +1,24 @@
+# Session / secrets
+cookies.json
+request_list.txt
+.env
+.env.*
+
+# Browser profile
+ff_profile/
+
+# Python cache / virtual artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated outputs
+raw_calendar.json
+normalized_calendar.json
+replay_output.txt
+replay_requests.py
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
